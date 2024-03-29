@@ -16,14 +16,16 @@ In this application I created a README generator using Node.js and inquirer. I a
 
 This appilcation creates a README in markdown from the command line by using user input.
 
-- After you install all the dependienceis from the command line, your are then prompted with multiple questions about each section of the README. 
-- You can choose the shape of logo (Circle, Triangle, Square).
-- After you answer each section a README file is then generated.
+- Install all the dependienceis from the command line with `npm i`
+- Then run `node index.js`  after your will be prompted with multiple questions and you will provide input about each section of your README.
+- After you answer each section an example README file is then generated in the example folder.
 
 
 ### Demo of the Application
 
-![Demo of the Appilcation](videos/README-Generator.gif "Demo of the Appilcation")
+*Click the gif to view the full video from Google Drive*
+
+[![Demo of the Application](videos/demo.gif)](https://drive.google.com/file/d/1EwFqWCRaCPbL76UezY5NAFwiIvceHCz3/view)
 
 ## Credits
 
