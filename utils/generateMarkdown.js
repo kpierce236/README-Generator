@@ -57,7 +57,7 @@ ${data.tests}
 ${renderLicenseSection(data.license)}
 
 ## Questions
-For additional questions, contact ${data.github} at ${data.email}.
+For additional questions, contact [${data.github}](https://github.com/${data.github}/) at [${data.email}](mailto:${data.email}).
 `;
 }
 
