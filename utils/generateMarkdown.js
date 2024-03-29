@@ -72,7 +72,7 @@ ${data.tests}
 ${renderLicenseSection(data.license)}
 
 ## Questions
-For additional questions, contact [${data.github}](https://github.com/${data.github}/) at [${data.email}](mailto:${data.email}).
+For additional questions, find my GitHub [${data.github}](https://github.com/${data.github}/) or contact me at [${data.email}](mailto:${data.email}).
 `;
 }
 
