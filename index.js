@@ -65,7 +65,7 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
       const readmeContent = generateMarkdown(answers);
-      writeToFile('README.md', readmeContent);
+      writeToFile('README_EXAMPLE.md', readmeContent);
       console.log('README.md has been generated successfully.');
     })
     .catch((error) => {
